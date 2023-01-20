@@ -1,0 +1,721 @@
+,Brands,Model,Colors,RAM,ROM,Battery,Screen_Size,Prices
+0,SAMSUNG,Galaxy,Blue),4,64,7040,26.42,24999
+1,SAMSUNG,Galaxy,Mystic Black),6,128,10090,31.5,47999
+2,realme,Pad,Grey),4,64,7100,26.42,16499
+3,realme,Pad,Gold),4,64,7100,26.42,16499
+4,realme,Pad,Grey),3,32,7100,26.42,11999
+5,Lenovo,Tab,Platinum Grey),4,128,5000,26.16,14999
+6,MOTOROLA,Tab,Frost Blue),4,64,7700,26.95,17499
+7,realme,Pad,Blue),4,64,6400,22.1,13999
+8,realme,Pad,Glowing Grey),6,128,8340,27.94,27999
+9,realme,Pad,Glacier Blue),2,128,2685,27.94,27999
+10,MOTOROLA,tab,Modernist Teal),6,128,8340,27.94,22999
+11,SAMSUNG,Galaxy,Silver),6,32,7700,26.67,13999
+12,realme,Pad,Grey),3,64,7040,22.1,13999
+13,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,2,64,2685,27.69,42999
+14,REDMI,Pad,Graphite Gray),4,128,6400,26.95,16999
+15,SAMSUNG,Galaxy,Silver),4,128,8000,31.5,66999
+16,realme,Pad,Blue),2,64,2685,22.1,10999
+17,APPLE,iPad,4th Gen) 128 GB ROM 11.0 inch with Wi-Fi Only ,8,128,10090,27.94,78670
+18,realme,Pad,Blue),4,32,6400,22.1,10999
+19,realme,Pad,Grey),3,32,6400,26.42,13999
+20,SAMSUNG,Galaxy,Gray),3,32,7100,26.67,13999
+21,Honor,Pad,Blue Hour),3,128,7040,30.48,17999
+22,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,4,64,7250,27.69,42499
+23,Lenovo,Tab,Storm Grey),6,128,7700,26.95,19999
+24,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,3,256,2685,27.69,57500
+25,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,6,256,6400,27.69,57500
+26,realme,Pad,Grey),6,32,6400,22.1,8999
+27,realme,Pad,Grey),4,128,7100,26.42,19999
+28,realme,Pad,Gold),3,128,7100,26.42,19999
+29,Lenovo,Tab,Abyss Blue),4,64,7500,26.16,16480
+30,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,2,64,2685,27.69,42499
+31,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,4,256,6400,27.69,57166
+32,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi Only ,2,64,6400,21.08,44759
+33,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,2,256,2685,27.69,62499
+34,realme,Pad,Grey),2,32,2685,22.1,10999
+35,APPLE,iPad,9th Gen) 64 GB ROM 10.2 inch with Wi-Fi+5G ,3,64,5000,25.91,38900
+36,Lenovo,M10,2nd Gen) with Active Pen 4 GB RAM 128 GB ROM 10.3 inches with Wi-Fi+4G Tablet ,4,128,7500,26.16,18999
+37,Lenovo,Tab,Platinum Grey),4,128,3000,27.94,19999
+38,APPLE,iPad,4th Gen) 128 GB ROM 11.0 inch with Wi-Fi+5G ,2,128,2685,27.94,92477
+39,I,Kall,White),6,16,7000,17.78,3514
+40,Lenovo,M10,Slate Black),2,32,2685,25.65,11999
+41,Oppo,Pad,Grey),2,64,7100,26.31,15499
+42,realme,Pad,Glowing Grey),4,64,2685,27.94,19999
+43,Honor,Pad,Blue Hour),3,128,8340,30.48,19999
+44,APPLE,iPad,9th Gen) 64 GB ROM 10.2 inch with Wi-Fi+5G ,2,64,2685,25.91,39900
+45,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,2,64,2685,27.69,42999
+46,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,4,64,2685,27.69,52900
+47,I,Kall,White),4,16,7250,17.78,3514
+48,Lenovo,Tab,Platinum Grey),6,128,3000,27.94,19999
+49,Lenovo,M10,Slate Black),4,32,7500,25.65,11999
+50,I,Kall,White),2,16,2685,17.78,3514
+51,Oppo,Pad,Grey),3,64,2685,26.31,15499
+52,realme,Pad,Glowing Grey),3,64,7000,27.94,19999
+53,Honor,Pad,Blue Hour),2,128,2685,30.48,19999
+54,APPLE,iPad,4th Gen) 128 GB ROM 11.0 inch with Wi-Fi+5G ,3,128,3000,27.94,92477
+55,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,3,64,7100,27.69,42999
+56,APPLE,iPad,9th Gen) 64 GB ROM 10.2 inch with Wi-Fi+5G ,3,64,8340,25.91,39900
+57,MOTOROLA,tab,Modernist Teal),2,64,2685,27.94,19999
+58,SAMSUNG,Galaxy,Gray),3,32,7250,26.67,17999
+59,SAMSUNG,Galaxy,Pink Gold),3,32,2685,26.67,17999
+60,Lenovo,M8,2nd Gen) 3 GB RAM 32 GB ROM 8 inches with Wi-Fi+4G Tablet ,4,32,2685,20.32,10699
+61,APPLE,iPad,9th Gen) 256 GB ROM 10.2 inch with Wi-Fi+5G ,4,256,7700,25.91,51900
+62,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi+5G ,2,64,7040,27.69,65755
+63,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,3,64,2685,27.69,49900
+64,TCL,Tab,Black),4,64,7040,25.65,11999
+65,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi+5G ,2,64,2685,27.69,68079
+66,I,Kall,Black),2,32,2685,20.32,7399
+67,MOTOROLA,tab,Platinum Grey),2,32,2685,20.32,7999
+68,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi Only ,2,256,2685,21.08,60900
+69,APPLE,iPad,4th Gen) 256 GB ROM 11.0 inch with Wi-Fi+5G ,2,256,2685,27.94,102020
+70,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,2,256,2685,27.69,65400
+71,SAMSUNG,Galaxy,Grey),2,32,2685,22.1,14449
+72,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,40900
+73,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,40900
+74,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,4,256,5000,27.69,57166
+75,Lenovo,Tab,2nd Gen) 4 GB RAM 128 GB ROM 10.3 inches with Wi-Fi Only Tablet ,3,128,5500,26.16,14629
+76,Lenovo,Tab,HD) 4 GB RAM 64 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,2,64,2685,25.65,15927
+77,Lenovo,Tab,2nd Gen) HD 2 GB RAM 32 GB ROM 8 inch with Wi-Fi+4G Tablet ,4,32,4000,20.32,11018
+78,SAMSUNG,Galaxy,Silver),2,32,2685,22.1,14449
+79,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,1,64,5100,21.08,58120
+80,realme,Pad,Glowing Grey),2,64,2685,27.94,25999
+81,Lenovo,Tab,Abyss Blue),2,64,5100,26.16,14999
+82,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi Only ,2,256,2685,27.69,68900
+83,SAMSUNG,Galaxy,Silver),4,32,5000,22.1,11999
+84,Lenovo,M8,platinum grey),2,64,2685,20.32,14999
+85,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi+5G ,4,256,5000,21.08,71481
+86,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi+5G ,2,64,2685,27.69,65754
+87,DOMO,Slate,Black),2,8,2685,17.78,3999
+88,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi Only ,2,64,2685,27.69,54900
+89,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,39900
+90,DOMO,Slate,Black),1,32,5000,25.65,8999
+91,APPLE,iPad,4th Gen) 128 GB ROM 11.0 inch with Wi-Fi+5G ,2,128,2685,27.94,93900
+92,Lenovo,Smart,2nd Gen) with Google Assistant 4 GB RAM 128 GB ROM 10.3 inch with Wi-Fi...,2,128,5100,26.16,17499
+93,acer,One,"Rear: Rose Gold, Front: White)",2,16,2685,25.65,14999
+94,Alcatel,1T,2nd Gen) 1 GB RAM 16 GB ROM 7 inches with Wi-Fi+4G Tablet ,2,32,2685,17.78,7499
+95,ankikrit,TAB104GDM1,Black),16,64,8340,25.4,7990
+96,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi+5G ,4,64,7500,27.69,65754
+97,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi+5G ,3,128,5100,27.69,68900
+98,APPLE,iPad,5th Generation) 16 GB RAM 1 TB ROM 12.9 inches with Wi-Fi Only ,3,256,5100,32.77,162900
+99,REDMI,Pad,Moonlight Silver),3,32,3000,26.95,17999
+100,APPLE,iPad,9th Gen) 256 GB ROM 10.2 inch with Wi-Fi+5G ,2,256,5020,25.91,53900
+101,Nokia,Tab,Blue),2,64,2685,26.31,14199
+102,I,Kall,Grey),2,64,2685,20.32,7499
+103,APPLE,ipad,2019) 256 GB ROM 7.9 inch with Wi-Fi Only ,2,64,2685,20.07,43900
+104,I,Kall,Grey),4,32,5000,20.32,7499
+105,Lenovo,Tab,Abyss Blue),2,64,2685,26.16,15999
+106,APPLE,iPad,6th Gen) 128 GB ROM 12.9 inch with Wi-Fi Only ,2,32,2685,32.77,107746
+107,I,Kall,Black),2,128,2685,17.78,3999
+108,Nokia,T10,Blue),4,16,6600,20.32,13699
+109,I,Kall,Grey),2,64,2685,25.4,11999
+110,APPLE,iPad,3rd Generation) 16 GB RAM 1 TB ROM 11 inches with Wi-Fi+5G ,16,64,2580,27.94,142225
+111,APPLE,iPad,3rd Generation) 8 GB RAM 512 GB ROM 11 inches with Wi-Fi+5G ,2,64,2685,27.94,107745
+112,SAMSUNG,Galaxy,Dark Grey),8,64,5020,26.42,16999
+113,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi+5G ,2,512,2685,27.69,72499
+114,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi Only ,3,64,2685,20.07,34900
+115,DOMO,Slate,0,2,256,8000,25.65,6990
+116,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi+4G ,8,64,8200,20.07,41900
+117,APPLE,iPad,4th Gen) 512 GB ROM 11.0 inch with Wi-Fi+5G ,3,32,2685,27.94,122900
+118,APPLE,iPad,3rd Generation) 8 GB RAM 512 GB ROM 11 inches with Wi-Fi Only ,2,64,2685,27.94,98900
+119,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,3,512,4000,27.69,65400
+120,SAMSUNG,Galaxy,Grey),2,512,2685,22.1,11999
+121,I,Kall,Grey),16,256,2685,20.32,7499
+122,APPLE,ipad,2019) 256 GB ROM 7.9 inch with Wi-Fi Only ,2,32,4000,20.07,44900
+123,I,Kall,Black),3,32,7500,17.78,3999
+124,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi Only ,4,256,2685,27.69,65400
+125,APPLE,iPad,4th Gen) 1 TB ROM 11.0 inch with Wi-Fi+5G ,3,16,5250,27.94,165900
+126,APPLE,iPad,5th Generation) 16 GB RAM 2 TB ROM 12.9 inches with Wi-Fi Only ,3,256,6000,32.77,187900
+127,FUSION5,4G,White),2,64,2685,25.65,7999
+128,APPLE,iPad,4th Gen) 1 TB ROM 11.0 inch with Wi-Fi Only ,4,32,7040,27.94,145900
+129,Honor,Pad,Glacial Blue),16,32,5020,25.65,16999
+130,I,Kall,Gold),2,64,2685,25.4,11999
+131,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,2,64,5100,21.08,58499
+132,APPLE,iPad,4th Gen) 256 GB ROM 11.0 inch with Wi-Fi Only ,2,64,2685,27.94,88270
+133,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi+4G ,8,256,4000,20.07,41900
+134,Swipe,Slate,Space Grey),3,64,5100,25.65,9999
+135,Swipe,Slate,Glacier Blue),3,32,6000,25.65,9999
+136,Oppo,Pad,Grey),2,64,2685,26.31,19999
+137,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi+4G ,4,32,6000,20.07,40900
+138,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi+5G ,2,128,2685,27.69,71500
+139,APPLE,iPad,4th Gen) 2 TB ROM 11.0 inch with Wi-Fi Only ,2,64,2685,27.94,183139
+140,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,16,256,6000,21.08,58119
+141,APPLE,iPad,3rd Generation) 16 GB RAM 2 TB ROM 11 inches with Wi-Fi+5G ,2,64,2685,27.94,179400
+142,APPLE,iPad,6th Gen) 128 GB ROM 12.9 inch with Wi-Fi+5G ,2,64,2685,32.77,123900
+143,Huawei,MatePad,Deepsea Blue),2,128,2685,20.32,17990
+144,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi+4G ,2,64,2685,27.69,76900
+145,APPLE,iPad,5th Generation) 8 GB RAM 512 GB ROM 12.9 inches with Wi-Fi+5G ,2,32,2685,32.77,140900
+146,Honor,Pad,Glacial Blue),2,64,2685,20.32,14999
+147,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,2,256,7100,21.08,58499
+148,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi+4G ,2,512,5100,20.07,41900
+149,APPLE,iPad,4th Gen) 256 GB ROM 11.0 inch with Wi-Fi Only ,4,32,5100,27.94,88270
+150,Swipe,Slate,Space Grey),2,64,2685,25.65,9999
+151,Oppo,Pad,Grey),16,64,6000,26.31,19999
+152,APPLE,iPad,3rd Generation) 16 GB RAM 2 TB ROM 11 inches with Wi-Fi Only ,8,64,7100,27.94,163170
+153,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,2,64,2685,21.08,58119
+154,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi Only ,2,64,2685,27.69,68900
+155,Swipe,Slate,Gold),2,256,5000,25.65,11646
+156,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi+5G ,4,64,2685,21.08,58120
+157,APPLE,iPad,6th Gen) 128 GB ROM 12.9 inch with Wi-Fi+5G ,4,32,2685,32.77,123900
+158,Huawei,MatePad,Deepsea Blue),3,128,2685,20.32,17990
+159,TCL,10,Blue),2,64,5100,26.31,17999
+160,APPLE,iPad,5th Generation) 16 GB RAM 2 TB ROM 12.9 inches with Wi-Fi Only ,4,256,2685,32.77,187900
+161,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi+5G ,16,16,2685,27.69,57166
+162,APPLE,iPad,3rd Generation) 8 GB RAM 512 GB ROM 11 inches with Wi-Fi Only ,1,64,2685,27.94,96900
+163,Alcatel,3T10,Prime Black),2,128,8000,25.4,9999
+164,Alcatel,3T8,2nd Gen) 2 GB RAM 32 GB ROM 8 inches with Wi-Fi+4G Tablet ,2,64,2685,20.32,9499
+165,APPLE,iPad,6th Gen) 1 TB ROM 12.9 inch with Wi-Fi Only ,2,32,2685,32.77,181900
+166,TCL,10,Grey),16,64,4080,26.31,17999
+167,Lenovo,Tab,Abyss Blue),2,64,2685,26.16,14999
+168,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi+5G ,6,512,4080,27.69,57166
+169,Honor,Pad,Glacial Blue),2,64,2685,20.32,14999
+170,APPLE,iPad,6th Gen) 2 TB ROM 12.9 inch with Wi-Fi+5G ,2,16,2685,32.77,236900
+171,APPLE,iPad,6th Gen) 1 TB ROM 12.9 inch with Wi-Fi Only ,6,32,8000,32.77,181900
+172,Alcatel,3T8,2nd Gen) 2 GB RAM 32 GB ROM 8 inches with Wi-Fi+4G Tablet ,2,64,2685,20.32,9499
+173,Lenovo,Tab,2nd Gen) with Active Pen 4 GB RAM 128 GB ROM 10.3 inches with Wi-Fi Only Tabl...,2,64,2685,26.16,18999
+174,APPLE,iPad,5th Generation) 16 GB RAM 1 TB ROM 12.9 inches with Wi-Fi+5G ,2,64,2685,32.77,167900
+175,Pebble,Quad,Black),2,64,2685,17.78,6488
+176,Alcatel,3T10,Prime Black),2,64,2685,25.4,9999
+177,APPLE,iPad,3rd Generation) 16 GB RAM 1 TB ROM 11 inches with Wi-Fi+5G ,2,64,2685,27.94,143900
+178,APPLE,iPad,6th Gen) 1 TB ROM 12.9 inch with Wi-Fi+5G ,2,64,2685,32.77,196900
+179,Swipe,X1,Space Grey),2,64,2685,25.65,18999
+180,APPLE,iPad,4th Generation) 6 GB RAM 512 GB ROM 12.9 inch with Wi-Fi Only ,2,32,2685,32.77,113476
+181,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi+4G ,2,64,7500,27.69,63845
+182,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi+5G ,2,32,2685,27.69,57500
+183,ankikrit,ENVT10DM2,Grey),2,64,5100,25.4,10640
+184,APPLE,iPad,2nd Generation) 6 GB RAM 1 TB ROM 11 inch with Wi-Fi Only ,6,128,4080,27.94,113476
+185,APPLE,iPad,2nd Generation) 6 GB RAM 1 TB ROM 11 inch with Wi-Fi Only ,2,64,2685,27.94,113476
+186,APPLE,iPad,2nd Generation) 6 GB RAM 1 TB ROM 11 inch with Wi-Fi+4G ,6,16,5000,27.94,127031
+187,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi+4G ,2,64,2685,27.69,76900
+188,APPLE,iPad,5th Generation) 16 GB RAM 2 TB ROM 12.9 inches with Wi-Fi+5G ,6,16,3400,32.77,212900
+189,TCL,10,Grey),16,128,4080,26.31,16499
+190,APPLE,iPad,6th Gen) 2 TB ROM 12.9 inch with Wi-Fi Only ,4,512,7000,32.77,222900
+191,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi+4G ,4,64,5020,27.69,63900
+192,TCL,10,Blue),2,64,2685,26.31,14499
+193,APPLE,iPad,3rd Generation) 16 GB RAM 2 TB ROM 11 inches with Wi-Fi Only ,2,64,2685,27.94,165900
+194,APPLE,ipad,2019) 256 GB ROM 7.9 inch with Wi-Fi Only ,2,32,2685,20.07,44900
+195,APPLE,iPad,2nd Generation) 6 GB RAM 512 GB ROM 11 inch with Wi-Fi+4G ,2,64,2685,27.94,112900
+196,APPLE,iPad,5th Generation) 16 GB RAM 2 TB ROM 12.9 inches with Wi-Fi Only ,2,256,2685,32.77,187900
+197,MOTOROLA,Tab,Frost Blue),16,64,8000,26.95,15499
+198,APPLE,ipad,2019) 256 GB ROM 7.9 inch with Wi-Fi+4G ,2,64,2685,20.07,55900
+199,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi+4G ,2,64,2685,27.69,63845
+200,APPLE,ipad,2019) 256 GB ROM 7.9 inch with Wi-Fi+4G ,2,64,2685,20.07,55900
+201,SAMSUNG,Galaxy,Chiffon Pi...,6,256,8000,26.42,24999
+202,APPLE,iPad,6th Gen) 128 GB ROM 12.9 inch with Wi-Fi+5G ,2,64,2685,32.77,122061
+203,APPLE,iPad,4th Gen) 256 GB ROM 10.9 inch with Wi-Fi+4G ,2,512,2685,27.69,76900
+204,Honor,Pad,Glacial Blue),2,64,2685,20.32,16999
+205,Alcatel,TKEE,Yellow),2,64,2685,20.32,10499
+206,Wishtel,IRA,Black),2,256,2685,26.42,20499
+207,Swipe,X1,Glacier Blu...,2,64,2685,25.65,18999
+208,Lenovo,Tab,Slate Grey),16,256,7700,29.21,35999
+209,Huawei,MatePad,WiFi Edition) 2 GB RAM 32 GB ROM 8 inch with Wi-Fi Only Tablet ,2,64,2685,20.32,15990
+210,Swipe,Slate,Grey),2,64,2685,25.65,10999
+211,APPLE,iPad,6th Gen) 512 GB ROM 12.9 inch with Wi-Fi Only ,2,128,2685,32.77,136376
+212,TCL,10,Blue),2,64,2685,26.31,17999
+213,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi+4G ,4,256,7040,27.69,63845
+214,Alcatel,TKEE,Mint Green),2,64,2685,25.65,10499
+215,APPLE,iPad,5th Generation) 16 GB RAM 2 TB ROM 12.9 inches with Wi-Fi+5G ,4,32,5100,32.77,200900
+216,APPLE,iPad,5th Generation) 16 GB RAM 1 TB ROM 12.9 inches with Wi-Fi+5G ,4,128,4080,32.77,176900
+217,APPLE,iPad,5th Generation) 8 GB RAM 512 GB ROM 12.9 inches with Wi-Fi Only ,2,64,2685,32.77,126900
+218,Contixo,Kids,Purple),2,128,2685,17.78,6999
+219,TCL,10,Grey),2,128,7000,26.31,17999
+220,Lenovo,Tab,Aurora Black),2,32,2685,25.65,23999
+221,Lenovo,Tab,Abyss Blue),2,64,2685,26.16,14499
+222,APPLE,iPad,4th Gen) 1 TB ROM 11.0 inch with Wi-Fi Only ,2,32,2685,27.94,144966
+223,APPLE,iPad,6th Gen) 256 GB ROM 12.9 inch with Wi-Fi+5G ,2,64,2685,32.77,133900
+224,Swipe,Slate,Gold),2,64,2685,25.65,11646
+225,Lenovo,Ideapad,"Ice Blue, Iron Gr...",8,512,8600,25.65,25990
+226,Alcatel,3T10,2nd Gen) 3 GB RAM 32 GB ROM 10.1 inches with Wi-Fi+4G Tablet ,2,64,2685,25.65,13199
+227,Swipe,Slate,Glacier Blue),2,64,2685,25.65,11999
+228,Wishtel,IRA,Grey),6,32,5100,25.4,19250
+229,Swipe,New,Grey),6,512,5000,25.65,10999
+230,Nokia,T10,Blue),2,32,8000,20.32,12499
+231,Alcatel,1T10,2nd Gen) 2 GB RAM 32 GB ROM 10.1 inches with Wi-Fi Only Tablet ,2,64,2685,25.65,9499
+232,Swipe,X1,Glacier Blue...,2,16,2685,25.65,15999
+233,Wishtel,IRA,Black),2,32,2685,25.4,9999
+234,SAMSUNG,Galaxy,Silver),2,64,2685,31.5,88999
+235,APPLE,iPad,4th Gen) 512 GB ROM 11.0 inch with Wi-Fi Only ,2,256,2685,27.94,106792
+236,Alcatel,TKEE,Blue),3,16,4080,17.78,7499
+237,APPLE,iPad,4th Gen) 512 GB ROM 11.0 inch with Wi-Fi Only ,2,64,2685,27.94,108400
+238,LAVA,Ivory,Black),4,128,2800,17.78,7999
+239,SAMSUNG,Galaxy,S...,2,64,2685,20.32,21500
+240,APPLE,iPad,3rd Generation) 16 GB RAM 1 TB ROM 11 inches with Wi-Fi Only ,2,32,2685,27.94,129292
+241,Nokia,Tab,Blue),2,64,2685,26.31,16499
+242,APPLE,iPad,8th Gen) 128 GB ROM 10.2 inch with Wi-Fi Only ,2,64,8000,25.91,37900
+243,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,16,64,7000,35.56,61790
+244,SAMSUNG,Galaxy,Silver),2,32,2685,31.5,42999
+245,Wishtel,IRA,Silver),2,64,2685,25.4,10375
+246,iball,iTAB,Coal Black),16,32,7500,25.65,13999
+247,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,8,32,5000,25.91,29900
+248,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi+5G ,2,64,7000,27.69,72499
+249,Swipe,Slate,Space Grey),2,64,2685,25.65,11999
+250,Nokia,T10,Blue),4,32,5500,20.32,11499
+251,Nokia,Tab,Blue),3,128,6000,26.31,14999
+252,DOMO,Slate,Black),3,512,5000,20.32,8590
+253,I,Kall,Blue),2,16,5250,17.78,3799
+254,Lenovo,M10,Slate Black),4,512,4080,25.5,11999
+255,TCL,Tab,Grey),2,64,2685,25.65,10999
+256,DOMO,Slate,Grey),2,16,2685,25.65,11990
+257,LAVA,Aura,Grey),2,16,2685,20.32,10999
+258,Lenovo,M8,2nd Gen) 3 GB RAM 32 GB ROM 8 inches with Wi-Fi Only Tablet ,2,128,2685,20.32,10999
+259,Swipe,Slate,Gold),2,64,2685,25.65,12763
+260,Swipe,X1,Space Grey),3,64,7000,25.65,15999
+261,Wishtel,IRA,Black),4,32,10090,25.4,16499
+262,Lenovo,Tab,"4 GB, 128 GB, Wi-Fi) With Keyboard and Active Pen and Windows Pro OS 4 GB RAM...",4,64,2580,25.65,27999
+263,Wishtel,IRA,Bl...,2,32,2685,25.4,8000
+264,iball,iTAB,Coal Black),3,256,4100,25.65,13999
+265,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,3,64,4200,25.91,29900
+266,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi+5G ,2,32,8200,27.69,72499
+267,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,4,32,10090,35.56,61790
+268,Nokia,T10,Blue),2,4,7000,20.32,11499
+269,I,Kall,Blue),8,32,6000,17.78,3799
+270,DOMO,Slate,Black),5,32,5250,20.32,8590
+271,TCL,Tab,Grey),2,64,8200,25.65,10999
+272,Swipe,Slate,Space Grey),2,32,4020,25.65,11999
+273,DOMO,Slate,Grey),16,32,7000,25.65,11990
+274,LAVA,Aura,Grey),2,64,2685,20.32,10999
+275,Swipe,Slate,Gold),4,32,8000,25.65,12763
+276,Swipe,X1,Space Grey),2,64,5020,25.65,15999
+277,Wishtel,IRA,Black),2,64,2685,25.4,16499
+278,Lenovo,Tab,"4 GB, 128 GB, Wi-Fi) With Keyboard and Active Pen and Windows Pro OS 4 GB RAM...",2,128,2685,25.65,27999
+279,Lenovo,M8,2nd Gen) 3 GB RAM 32 GB ROM 8 inches with Wi-Fi Only Tablet ,4,32,5100,20.32,10999
+280,Wishtel,IRA,Bl...,4,64,5000,25.4,8000
+281,Swipe,Slate,Glacier Blue),3,32,5000,25.65,10999
+282,Lenovo,82MA001VIN,Slate Grey),2,64,2685,33.02,85500
+283,Wishtel,IRA,Bla...,2,256,7000,20.32,11500
+284,Swipe,STRIKE,Gold),3,32,5080,17.78,5799
+285,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi+5G ,2,64,2685,21.08,71480
+286,APPLE,iPad,6th Gen) 256 GB ROM 12.9 inch with Wi-Fi Only ,3,4,6500,32.77,117290
+287,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi+5G ,4,32,7000,27.69,57500
+288,APPLE,iPad,10th Gen) 64 GB ROM 10.9 inch with Wi-Fi+5G ,2,32,2685,27.69,57500
+289,Elevn,eTab,Aluminium Grey),2,64,2685,25.65,15999
+290,Contixo,Kids,Pink),2,64,5250,17.78,5799
+291,I,Kall,"Blue, 64 GB)",3,32,4020,16.51,7779
+292,Lenovo,Tab,Storm Grey),3,32,8000,32.0,65999
+293,Contixo,Kids,Blue),4,64,6000,17.78,5799
+294,Contixo,Kids,Sky Blue),4,64,5020,17.78,5799
+295,I,Kall,"Dark Blue, 64 GB)",4,128,5100,15.9,6283
+296,Swipe,New,Gold),2,32,5000,25.65,10999
+297,Swipe,Slate,Grey),4,32,7000,25.65,11457
+298,realme,Pad,Gold),3,32,5080,26.42,11999
+299,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,512,5000,35.56,61790
+300,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi Only ,3,32,6500,27.69,54900
+301,SAMSUNG,Galaxy,Pink),4,32,6000,26.42,24999
+302,APPLE,iPad,9th Gen) 64 GB ROM 10.2 inch with Wi-Fi Only ,4,256,3000,25.91,28999
+303,I,Kall,"Silver, 8 GB)",2,256,7000,12.7,3999
+304,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi Only ,2,64,2685,27.69,54900
+305,SAMSUNG,Galaxy,Pink Gold),2,64,2685,31.5,66999
+306,SAMSUNG,Galaxy,Pink Gold),3,64,2800,26.67,19999
+307,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi Only ,4,128,10200,27.69,54900
+308,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi Only ,2,32,2685,27.69,68900
+309,APPLE,iPad,9th Gen) 256 GB ROM 10.2 inch with Wi-Fi Only ,4,64,2800,25.91,43500
+310,APPLE,iPad,4th Gen) 64 GB ROM 10.9 inch with Wi-Fi Only ,4,256,2800,27.69,49900
+311,APPLE,iPad,6th Gen) 64 GB ROM 8.3 inch with Wi-Fi Only ,3,32,5000,21.08,44759
+312,SAMSUNG,Galaxy,Angora Blu...,2,32,5000,26.42,24999
+313,APPLE,iPad,5th gen) 64 GB ROM 10.9 Inch with Wi-Fi Only ,3,64,7100,27.69,54900
+314,APPLE,iPad,9th Gen) 256 GB ROM 10.2 inch with Wi-Fi Only ,8,32,7040,25.91,44900
+315,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,16,10090,35.56,61790
+316,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi+5G ,3,32,7040,21.08,71480
+317,Lenovo,Tab,2nd Gen) 2 GB RAM 32 GB ROM 8 inch with Wi-Fi Only Tablet ,4,64,7040,20.32,10499
+318,APPLE,iPad,4th Generation) 6 GB RAM 128 GB ROM 12.9 inch with Wi-Fi Only ,2,64,2685,32.77,85900
+319,DELL,Core,16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 7420 Thin and Light ...,2,64,2685,35.56,107990
+320,APPLE,iPad,5th Generation) 8 GB RAM 256 GB ROM 12.9 inches with Wi-Fi Only ,2,64,5000,32.77,99900
+321,I,Kall,Green),4,8,4000,20.32,7489
+322,SAMSUNG,Galaxy,Graphite),8,64,10090,37.08,115490
+323,DELL,Inspiron,8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Lapto...,2,128,10090,35.56,77890
+324,APPLE,iPad,5th Generation) 8 GB RAM 256 GB ROM 12.9 inches with Wi-Fi Only ,2,64,2685,32.77,99900
+325,SAMSUNG,Galaxy,Black),2,64,2685,31.5,45999
+326,FUSION5,9.6,White),2,256,2685,24.38,7999
+327,DELL,Core,16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop,2,256,5000,35.56,81490
+328,APPLE,iPad,3rd Generation) 8 GB RAM 256 GB ROM 11 inches with Wi-Fi+5G ,4,64,7040,27.94,94900
+329,SAMSUNG,Galaxy,Blue),2,64,2685,26.42,31999
+330,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi+5G ,2,64,2685,27.69,82900
+331,DELL,Inspiron,16 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop,3,64,7040,35.56,79490
+332,APPLE,iPad,3rd Generation) 8 GB RAM 512 GB ROM 11 inches with Wi-Fi+5G ,2,256,7000,27.94,107745
+333,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi Only ,2,256,2685,21.08,60900
+334,APPLE,iPad,5th Generation) 8 GB RAM 512 GB ROM 12.9 inches with Wi-Fi Only ,3,32,3500,32.77,115900
+335,DELL,Inspiron,8 GB/512 GB SSD/Windows 10 Home) INSP 5406 2in1 2 in 1 Laptop,2,128,2685,35.56,74990
+336,SAMSUNG,Galaxy,Pink),2,256,2685,26.42,31999
+337,Lenovo,Yoga,Iron Gr...,4,32,3500,25.65,19999
+338,APPLE,iPad,3rd Generation) 8 GB RAM 256 GB ROM 11 inches with Wi-Fi+5G ,2,256,2685,27.94,91900
+339,I,Kall,"Blue, 64 GB)",2,256,2685,16.51,7779
+340,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi+5G ,2,128,2685,27.69,82900
+341,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi+5G ,1,32,5100,27.69,82900
+342,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi+5G ,2,256,2685,27.69,82900
+343,I,Kall,"Dark Blue, 64 GB)",8,64,7040,15.9,6283
+344,iball,Slide,Coyote Brown),4,256,6200,17.78,5999
+345,iball,Slide,Biscuit Gold),4,512,10090,17.78,8998
+346,APPLE,iPad,3rd Generation) 8 GB RAM 256 GB ROM 11 inches with Wi-Fi Only ,2,64,2685,27.94,79900
+347,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,256,2685,35.56,61790
+348,APPLE,iPad,3rd Generation) 8 GB RAM 128 GB ROM 11 inches with Wi-Fi+5G ,2,512,2685,27.94,85900
+349,Lenovo,Tab,Iron Grey),2,64,2685,20.32,13999
+350,APPLE,iPad,5th Generation) 8 GB RAM 256 GB ROM 12.9 inches with Wi-Fi+5G ,2,64,2685,32.77,122900
+351,I,Kall,"Silver, 8 GB)",2,256,2685,12.7,3999
+352,SAMSUNG,Galaxy,Silver),2,64,3500,26.42,18999
+353,Lenovo,Yoga,2 GB RAM) 2 GB RAM 16 GB ROM 8 inch with Wi-Fi+4G Tablet ,6,256,10090,20.32,15828
+354,SAMSUNG,Galaxy,Silver),8,256,4850,31.5,45999
+355,APPLE,iPad,5th Generation) 8 GB RAM 128 GB ROM 12.9 inches with Wi-Fi Only ,2,256,2685,32.77,90900
+356,Lenovo,Tab,Iron Grey),2,64,2685,17.78,7999
+357,APPLE,iPad,6th Gen) 256 GB ROM 8.3 inch with Wi-Fi+5G ,2,16,2685,21.08,71900
+358,APPLE,iPad,5th Generation) 8 GB RAM 128 GB ROM 12.9 inches with Wi-Fi Only ,2,16,2685,32.77,92900
+359,SAMSUNG,Galaxy,Pink Gold),3,256,3000,31.5,88999
+360,APPLE,iPad,3rd Generation) 8 GB RAM 128 GB ROM 11 inches with Wi-Fi Only ,2,128,2685,27.94,68900
+361,Lenovo,Tab,HD) 2 GB RAM 32 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,12,64,10090,25.65,11999
+362,Swipe,STRIKE,Gold),2,64,2685,17.78,6499
+363,SAMSUNG,Galaxy,Graphite),8,256,7040,31.5,66999
+364,SAMSUNG,Galaxy,Angora Blue),6,8,5100,26.42,31999
+365,SAMSUNG,Galaxy,Silver),2,64,2685,20.32,8999
+366,Lenovo,Tab,2nd Gen) FHD 3 GB RAM 32 GB ROM 8 inch with Wi-Fi+4G Tablet ,2,16,5100,20.32,11999
+367,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,8,128,4850,35.56,61790
+368,Lenovo,Tab,HD) 3 GB RAM 32 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,4,128,2685,25.65,13999
+369,SAMSUNG,Galaxy,Oxford Grey),8,16,7040,26.42,31999
+370,SAMSUNG,Galaxy,Graphit...,2,256,2685,37.08,101999
+371,acer,ONE,Black),8,128,10090,25.4,12999
+372,I,Kall,Black),2,128,2685,17.78,5224
+373,VIZIO,VIZIO,Black),2,128,2685,17.78,5299
+374,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi Only ,4,32,4000,27.69,68900
+375,Lenovo,Tab3,Black),4,32,3000,17.78,5000
+376,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi Only ,2,128,2685,27.69,68900
+377,SAMSUNG,Galaxy,Silver),8,64,3450,20.32,11999
+378,Heatz,Z,ROSE GOLD),2,32,2685,17.78,5499
+379,Lenovo,M7,Black),4,32,3500,17.78,9499
+380,SAMSUNG,Galaxy,Black),4,32,5100,20.31,9999
+381,SAMSUNG,Galaxy,Oxford Gre...,2,64,7040,26.42,24999
+382,ASUS,CM3000DVA-HT0038,Mineral Grey),2,256,5100,26.67,29990
+383,I,Kall,Black),8,32,6000,17.78,5414
+384,Panasonic,Tab,Black),8,16,4600,20.32,9499
+385,Swipe,Slate,Space Grey),4,16,4000,25.65,10999
+386,APPLE,iPad,6th Gen) 32 GB ROM 9.7 inch with Wi-Fi+4G ,8,256,4000,24.64,34900
+387,I,Kall,"Blue, 64 GB)",1,8,4100,16.51,7779
+388,APPLE,iPad,Gold),3,256,4080,26.67,60990
+389,APPLE,iPad,Silver),2,32,4080,26.67,72990
+390,APPLE,iPad,4th Gen) 1 TB ROM 11.0 inch with Wi-Fi+5G ,2,16,2685,27.94,165900
+391,I,Kall,"Dark Blue, 64 GB)",6,32,3200,15.9,6283
+392,APPLE,iPad,6th Gen) 128 GB ROM 9.7 inch with Wi-Fi+4G ,2,32,2685,24.64,46300
+393,APPLE,iPad,10th Gen) 256 GB ROM 10.9 inch with Wi-Fi+5G ,8,64,4080,27.69,73900
+394,APPLE,iPad,4th Gen) 512 GB ROM 11.0 inch with Wi-Fi+5G ,1,128,5500,27.94,126900
+395,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,8,16,4080,35.56,61790
+396,APPLE,iPad,Rose Gold),8,32,3200,26.67,72990
+397,Alcatel,A3,Black),8,32,3000,25.65,11999
+398,APPLE,iPad,Space Grey),2,32,8000,26.67,72990
+399,I,Kall,"Silver, 8 GB)",3,64,3500,12.7,3999
+400,I,Kall,Black),8,64,5870,17.78,3799
+401,Apple,iPad,0,2,64,2685,24.64,49900
+402,SAMSUNG,Galaxy,Gold),4,512,4600,17.78,12699
+403,APPLE,iPad,Rose Gold),3,64,4600,26.67,57900
+404,APPLE,iPad,Silver),2,128,2685,26.67,57900
+405,APPLE,iPad,Silver),2,256,2685,26.67,50800
+406,APPLE,iPad,Gold),2,512,2685,26.67,72990
+407,Alcatel,PIXI,Volcano Black),2,512,2685,17.78,6999
+408,APPLE,iPad,Space Grey),2,32,2685,26.67,67900
+409,APPLE,iPad,Space Grey),2,512,2685,26.67,60990
+410,APPLE,iPad,Gold),3,8,7300,26.67,67900
+411,I,Kall,"Blue, 64 GB)",4,4,4600,16.51,7779
+412,APPLE,iPad,6th Gen) 32 GB ROM 9.7 inch with Wi-Fi+4G ,2,32,2685,24.64,38600
+413,APPLE,iPad,6th Gen) 128 GB ROM 9.7 inch with Wi-Fi Only ,2,32,2685,24.64,35700
+414,APPLE,iPad,Gold),12,8,4600,26.67,55900
+415,I,Kall,"Dark Blue, 64 GB)",2,256,2685,15.9,6283
+416,APPLE,iPad,Gold),2,256,2685,26.67,57900
+417,APPLE,iPad,Space Grey),2,64,2685,26.67,88990
+418,LAVA,Ivory,Black),2,512,2685,17.78,7999
+419,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,64,2685,35.56,61790
+420,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi+4G ,2,16,2685,25.91,39900
+421,APPLE,iPad,Gold),3,256,6000,26.67,47900
+422,APPLE,iPad,Rose Gold),2,64,2685,26.67,49999
+423,I,Kall,"Silver, 8 GB)",2,256,2685,12.7,3999
+424,Alcatel,3T,Metallic Black),2,64,2685,20.32,9999
+425,APPLE,iPad,Rose Gold),2,32,2685,26.67,67900
+426,APPLE,iPad,6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only ,2,128,2685,24.64,26459
+427,APPLE,iPad,Silver),2,64,2685,26.67,55900
+428,APPLE,iPad,6th Gen) 128 GB ROM 9.7 inch with Wi-Fi Only ,2,64,3500,24.64,34071
+429,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,256,2685,25.91,41900
+430,APPLE,iPad,6th Gen) 128 GB ROM 9.7 inch with Wi-Fi+4G ,2,512,2685,24.64,46300
+431,Alcatel,3T,Prime Black),2,16,2685,25.4,9999
+432,APPLE,iPad,8th Gen) 128 GB ROM 10.2 inch with Wi-Fi Only ,2,64,2685,25.91,37900
+433,Smartbeats,N55,White),2,128,2685,17.78,7499
+434,APPLE,iPad,4th Gen) 2 TB ROM 11.0 inch with Wi-Fi+5G ,2,64,2685,27.94,205900
+435,I,Kall,"Blue, 64 GB)",2,64,2685,16.51,7779
+436,APPLE,iPad,6th Gen) 128 GB ROM 9.7 inch with Wi-Fi Only ,2,8,2685,24.64,32999
+437,Alcatel,3T,Midnight Blue),2,32,2685,25.4,14999
+438,APPLE,iPad,6th Gen) 32 GB ROM 9.7 inch with Wi-Fi+4G ,2,256,2685,24.64,38600
+439,I,Kall,"Dark Blue, 64 GB)",2,32,2685,15.9,6283
+440,Alcatel,3T,Prime Black),2,64,2685,25.4,14999
+441,Apple,iPad,0,2,128,2685,24.64,61900
+442,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,48900
+443,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,64,2685,35.56,61790
+444,Wishtel,T701,Black),2,128,5100,17.78,7099
+445,Alcatel,3T8,Suede blue),2,16,2685,20.32,8999
+446,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi Only ,2,128,2685,25.91,29900
+447,I,Kall,"Silver, 8 GB)",2,16,2685,12.7,3999
+448,Apple,iPad,0,2,64,2685,24.64,61900
+449,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,2,128,2685,25.91,27200
+450,Smartbeats,N5,Black),1,16,7040,17.78,6999
+451,Apple,iPad,0,2,32,3500,24.64,61900
+452,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi+4G ,2,64,2685,25.91,47922
+453,APPLE,iPad,Space Grey),2,64,2685,26.67,55900
+454,APPLE,iPad,Gold),2,32,10090,26.67,58900
+455,APPLE,iPad,8th Gen) 128 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,49900
+456,APPLE,iPad,Space Grey),4,128,5000,32.77,74100
+457,APPLE,iPad,2018) 1 TB ROM 12.9 inch with Wi-Fi+4G ,2,16,2685,32.77,171900
+458,APPLE,iPad,Silver),2,16,4800,26.67,44860
+459,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,128,2685,35.56,61790
+460,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,2,8,2685,25.91,29900
+461,APPLE,iPad,Space Grey),2,32,2685,26.67,58900
+462,APPLE,iPad,8th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,41900
+463,DELL,Core,16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 7420 Thin and Light ...,3,16,3600,35.56,107990
+464,APPLE,iPad,8th Gen) 128 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,49900
+465,APPLE,iPad,Space Grey),2,64,2685,26.67,44893
+466,APPLE,iPad,2018) 64 GB ROM 11 inch with Wi-Fi+4G ,2,128,2685,27.94,83890
+467,DELL,Inspiron,8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Lapto...,2,64,2685,35.56,77890
+468,APPLE,iPad,Silver),2,256,2685,26.67,69900
+469,Alcatel,1T,Bluish Black),2,128,2685,25.4,6999
+470,APPLE,iPad,Space Grey),2,64,2685,24.64,46300
+471,DELL,Core,16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop,2,64,2685,35.56,81490
+472,Apple,iPad,0,2,64,2685,24.64,61900
+473,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi+4G ,2,32,2685,25.91,40900
+474,Swipe,Strike,Gold),2,256,2685,17.78,6045
+475,DELL,Inspiron,16 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop,2,32,2685,35.56,79490
+476,APPLE,iPad,Gold),2,64,2685,24.64,46300
+477,APPLE,iPad,4th Generation) 6 GB RAM 256 GB ROM 12.9 inch with Wi-Fi+4G ,2,128,2685,32.77,99900
+478,REDMI,Pad,Mint Green),3,64,4000,26.95,20499
+479,DELL,Inspiron,8 GB/512 GB SSD/Windows 10 Home) INSP 5406 2in1 2 in 1 Laptop,2,64,2685,35.56,74990
+480,APPLE,iPad,2018) 512 GB ROM 11 inch with Wi-Fi Only ,4,64,5870,27.94,103900
+481,APPLE,iPad,Space Grey),4,256,5000,26.67,44893
+482,APPLE,iPad,Gold),2,64,4800,24.64,28000
+483,I,Kall,"Blue, 64 GB)",3,16,5000,16.51,7779
+484,Lenovo,Tab,2nd Gen) 1 GB RAM 8 GB ROM 7 inch with Wi-Fi Only Tablet ,2,128,2685,17.78,5999
+485,APPLE,iPad,2018) 1 TB ROM 12.9 inch with Wi-Fi+4G ,1,32,7300,32.77,171900
+486,APPLE,iPad,2018) 512 GB ROM 11 inch with Wi-Fi+4G ,2,32,2685,27.94,117900
+487,I,Kall,"Dark Blue, 64 GB)",2,16,2685,15.9,6283
+488,APPLE,iPad,2018) 1 TB ROM 12.9 inch with Wi-Fi Only ,2,64,2685,32.77,157900
+489,APPLE,iPad,2018) 512 GB ROM 11 inch with Wi-Fi+4G ,2,128,10090,27.94,117900
+490,APPLE,iPad,2nd Generation) 6 GB RAM 256 GB ROM 11 inch with Wi-Fi+4G ,2,256,2685,27.94,85900
+491,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,128,2685,35.56,61790
+492,APPLE,iPad,2018) 64 GB ROM 12.9 inch with Wi-Fi Only ,2,512,2685,32.77,89900
+493,APPLE,iPad,2018) 256 GB ROM 12.9 inch with Wi-Fi+4G ,2,64,2685,32.77,117900
+494,APPLE,iPad,Silver),5,32,3500,26.67,69900
+495,I,Kall,"Silver, 8 GB)",2,64,2685,12.7,3999
+496,APPLE,iPad,4th Generation) 6 GB RAM 256 GB ROM 12.9 inch with Wi-Fi Only ,2,64,2685,32.77,94900
+497,SAMSUNG,Galaxy,Gold),2,64,4800,24.64,27999
+498,iball,Slide,Silver Chrome),2,8,2685,20.32,8499
+499,Alcatel,A3,VOLTE) 2 GB RAM 16 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,2,512,2685,25.65,8809
+500,APPLE,iPad,Silver),2,64,2685,32.77,85900
+501,Alcatel,A3,VOLTE) 2 GB RAM 16 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,1,512,2685,25.65,9999
+502,APPLE,iPad,2018) 256 GB ROM 11 inch with Wi-Fi+4G ,2,64,7300,27.94,99900
+503,SAMSUNG,Galaxy,Gold),2,64,2685,25.4,19999
+504,APPLE,iPad,Silver),2,256,2685,32.77,85900
+505,SAMSUNG,Galaxy,Black),2,64,2685,26.67,26999
+506,SAMSUNG,Galaxy,Gold),2,64,2685,25.4,19999
+507,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,4,256,2685,35.56,61790
+508,Alcatel,A3,VOLTE) 2 GB RAM 16 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,2,256,2685,25.65,8809
+509,Alcatel,A3,VOLTE) 2 GB RAM 16 GB ROM 10.1 inch with Wi-Fi+4G Tablet ,2,64,2685,25.65,9999
+510,APPLE,iPad,2018) 256 GB ROM 11 inch with Wi-Fi+4G ,2,8,2685,27.94,99900
+511,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi Only ,4,256,7040,25.91,35200
+512,APPLE,iPad,2018) 256 GB ROM 12.9 inch with Wi-Fi+4G ,2,64,2685,32.77,117900
+513,APPLE,iPad,2nd Generation) 6 GB RAM 512 GB ROM 11 inch with Wi-Fi+4G ,2,32,7500,27.94,103900
+514,Wishtel,Wishtel,0,1,16,10090,20.32,9120
+515,APPLE,iPad,2nd Generation) 6 GB RAM 512 GB ROM 11 inch with Wi-Fi Only ,3,16,8000,27.94,89900
+516,APPLE,iPad,2nd Generation) 6 GB RAM 256 GB ROM 11 inch with Wi-Fi Only ,2,64,2685,27.94,71900
+517,HP,Pro,Black),2,512,4060,20.32,8999
+518,iball,Brisk,Cobalt Blue),2,16,2685,17.78,7499
+519,APPLE,iPad,2018) 256 GB ROM 11 inch with Wi-Fi Only ,1,256,7040,27.94,85900
+520,APPLE,iPad,Silver),4,32,3200,24.64,46300
+521,APPLE,iPad,2nd Generation) 6 GB RAM 256 GB ROM 11 inch with Wi-Fi Only ,2,512,5180,27.94,75495
+522,Honor,Pad,Glacial Blue),2,64,2685,25.65,19999
+523,APPLE,iPad,5th Generation) 8 GB RAM 128 GB ROM 12.9 inches with Wi-Fi+5G ,4,32,10090,32.77,113900
+524,APPLE,iPad,7th Gen) 128 GB ROM 10.2 inch with Wi-Fi Only ,2,64,2685,25.91,35295
+525,APPLE,iPad,4th Generation) 6 GB RAM 128 GB ROM 12.9 inch with Wi-Fi+4G ,2,32,2685,32.77,103900
+526,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,2,16,2685,25.91,29900
+527,APPLE,iPad,2nd Generation) 6 GB RAM 256 GB ROM 11 inch with Wi-Fi+4G ,3,16,3000,27.94,85900
+528,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,2,256,4000,25.91,29900
+529,APPLE,iPad,2nd Generation) 6 GB RAM 256 GB ROM 11 inch with Wi-Fi+4G ,2,128,6100,27.94,85900
+530,SAMSUNG,Galaxy,Chiffon Pink...,2,256,2685,26.42,31999
+531,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,512,2685,35.56,61790
+532,Lenovo,A7-30,0,2,32,2685,17.78,7499
+533,SAMSUNG,Galaxy,Mystic Silver),2,512,2685,31.5,73999
+534,SAMSUNG,Galaxy,Gold),2,256,4050,20.32,17989
+535,Honor,MediaPad,Luxurious Gold),1,16,4000,20.32,11999
+536,SAMSUNG,Galaxy,EBONY BLA...,2,16,2685,17.78,8999
+537,SAMSUNG,Galaxy,White),2,256,2685,17.78,9490
+538,SAMSUNG,Galaxy,White),2,128,2685,24.64,27999
+539,APPLE,iPad,Gold),2,256,2685,32.77,73990
+540,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi Only ,2,64,2685,20.07,34900
+541,Samsung,Galaxy,0,2,128,2685,24.38,16700
+542,APPLE,iPad,4th Generation) 6 GB RAM 1 TB ROM 12.9 inch with Wi-Fi Only ,2,128,2685,32.77,130900
+543,APPLE,iPad,Silver),2,128,2685,24.64,38600
+544,APPLE,iPad,4th Generation) 6 GB RAM 512 GB ROM 12.9 inch with Wi-Fi Only ,2,32,2685,32.77,116900
+545,Honor,MediaPad,Luxurious Gold),2,256,2500,24.38,14041
+546,APPLE,iPad,Space Grey),2,32,3500,24.64,38600
+547,APPLE,iPad,Space Grey),2,256,7040,24.64,35700
+548,APPLE,iPad,3rd Generation) 8 GB RAM 256 GB ROM 11 inches with Wi-Fi Only ,1,64,4850,27.94,79900
+549,APPLE,iPad,Space Grey),2,8,4850,32.77,99990
+550,Swipe,Slate,Champagne Gold),2,128,2685,25.4,7999
+551,APPLE,iPad,2nd Generation) 6 GB RAM 128 GB ROM 11 inch with Wi-Fi Only ,2,16,2685,27.94,63191
+552,APPLE,iPad,Gold),2,32,2800,32.77,83990
+553,SAMSUNG,Galaxy,Blue),2,8,2685,26.67,24990
+554,APPLE,iPad,4th Generation) 6 GB RAM 256 GB ROM 12.9 inch with Wi-Fi Only ,2,8,2685,32.77,94900
+555,SAMSUNG,Galaxy,Graphite),2,32,2685,31.5,66999
+556,APPLE,iPad,Silver),6,256,10090,32.77,86800
+557,Lenovo,Tab,Slate Black),2,64,2685,17.73,8999
+558,APPLE,iPad,7th Gen) 32 GB ROM 10.2 inch with Wi-Fi Only ,2,8,2685,25.91,27723
+559,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,32,2685,35.56,61790
+560,APPLE,iPad,Silver),6,512,4800,32.77,99990
+561,APPLE,iPad,Space Grey),2,32,2685,32.77,62990
+562,APPLE,iPad,Gold),2,32,2685,32.77,74100
+563,DELL,Core,16 GB/512 GB SSD/Windows 11 Home/2 GB Graphics) Inspiron 7420 Thin and Light ...,4,128,10090,35.56,107990
+564,APPLE,iPad,Silver),2,256,2685,26.67,83990
+565,Honor,MediaPad,Luxurious Gold),2,512,2685,20.32,9999
+566,APPLE,iPad,2018) 1 TB ROM 11 inch with Wi-Fi+4G ,1,16,2685,27.94,153900
+567,DELL,Inspiron,8 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Lapto...,4,128,3600,35.56,77890
+568,APPLE,iPad,2018) 64 GB ROM 12.9 inch with Wi-Fi+4G ,6,256,2685,32.77,103900
+569,APPLE,iPad,2018) 256 GB ROM 12.9 inch with Wi-Fi Only ,1,32,4100,32.77,103900
+570,SAMSUNG,Galaxy,with Pen) 4 GB RAM 64 GB ROM 10.5 inch with Wi-Fi+4G Tablet ,6,256,2685,26.67,57990
+571,DELL,Core,16 GB/512 GB SSD/Windows 10/2 GB Graphics) Inspiron 5410 2 in 1 Laptop,3,128,2685,35.56,81490
+572,APPLE,iPad,2018) 64 GB ROM 12.9 inch with Wi-Fi Only ,2,256,7040,32.77,89900
+573,SAMSUNG,Galaxy,Silver),2,16,2685,26.67,39999
+574,APPLE,iPad,Silver),2,32,2685,24.64,35700
+575,DELL,Inspiron,16 GB/512 GB SSD/Windows 10) Inspiron 5410 2 in 1 Laptop,3,512,2685,35.56,79490
+576,Huawei,MediaPad,Space Grey),2,64,2685,25.65,22990
+577,APPLE,iPad,2018) 256 GB ROM 12.9 inch with Wi-Fi Only ,2,64,2685,32.77,103900
+578,SAMSUNG,Galaxy,Black),6,512,2685,25.4,19999
+579,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,16,2685,35.56,61790
+580,SAMSUNG,Galaxy,Mystic Navy),6,64,2685,31.5,73999
+581,APPLE,iPad,5th gen) 256 GB ROM 10.9 Inch with Wi-Fi+5G ,6,256,2685,27.69,82900
+582,APPLE,iPad,2018) 64 GB ROM 11 inch with Wi-Fi Only ,2,64,7000,27.94,71900
+583,APPLE,iPad,2018) 512 GB ROM 11 inch with Wi-Fi Only ,3,64,2685,27.94,103900
+584,SAMSUNG,Galaxy,LTE) 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+4G Tablet ,6,64,2685,27.94,63999
+585,APPLE,iPad,2018) 512 GB ROM 12.9 inch with Wi-Fi Only ,4,128,2685,32.77,121900
+586,APPLE,iPad,2nd Generation) 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+4G ,8,64,7000,27.94,76900
+587,APPLE,iPad,2018) 256 GB ROM 11 inch with Wi-Fi Only ,6,256,2685,27.94,85900
+588,Alcatel,A3,Black),6,32,7040,25.4,6999
+589,APPLE,iPad,6th Gen) 32 GB ROM 9.7 inch with Wi-Fi Only ,6,128,5000,24.64,26488
+590,APPLE,iPad,4th Generation) 6 GB RAM 512 GB ROM 12.9 inch with Wi-Fi+4G ,4,256,3200,32.77,130900
+591,SAMSUNG,Galaxy,Dark Grey),1,64,2685,26.42,15999
+592,Micromax,Canvas,Black),6,512,2685,17.78,4799
+593,Lenovo,Tab,Onyx Black),2,128,8000,17.6,13499
+594,APPLE,iPad,2nd Generation) 6 GB RAM 128 GB ROM 11 inch with Wi-Fi Only ,3,512,2685,27.94,71900
+595,APPLE,iPad,4th Generation) 6 GB RAM 128 GB ROM 12.9 inch with Wi-Fi+4G ,1,128,2685,32.77,103900
+596,SAMSUNG,Galaxy,Mystic Black),5,256,2685,31.5,73999
+597,Micromax,Fantabulet,Blue),3,16,2685,17.73,8499
+598,SAMSUNG,Galaxy,Black),5,32,2685,17.78,9501
+599,APPLE,iPad,2018) 64 GB ROM 11 inch with Wi-Fi Only ,6,512,10090,27.94,71900
+600,APPLE,iPad,Gold),6,32,4600,32.77,62990
+601,LAVA,Magnum,Grey),3,16,2685,25.65,12999
+602,Lenovo,Phab,Champagne Gold),8,64,2685,16.26,22999
+603,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,1,128,3600,35.56,61790
+604,APPLE,iPad,2018) 64 GB ROM 11 inch with Wi-Fi+4G ,6,128,3500,27.94,83890
+605,SAMSUNG,Galaxy,Black),3,128,2685,17.78,9501
+606,APPLE,iPad,2018) 64 GB ROM 11 inch with Wi-Fi Only ,6,8,5000,27.94,71900
+607,APPLE,iPad,4th Generation) 6 GB RAM 128 GB ROM 12.9 inch with Wi-Fi Only ,8,8,2685,32.77,85900
+608,iball,Twinkle,Dark Grey),2,64,4600,17.78,4499
+609,APPLE,iPad,4th Generation) 6 GB RAM 1 TB ROM 12.9 inch with Wi-Fi+4G ,2,64,2685,32.77,144900
+610,Lenovo,Tab,2nd Gen) 1 GB RAM 16 GB ROM 7 inch with Wi-Fi Only Tablet ,4,32,2685,17.78,5999
+611,APPLE,iPad,4th Generation) 6 GB RAM 512 GB ROM 12.9 inch with Wi-Fi+4G ,4,64,10090,32.77,130900
+612,SAMSUNG,Galaxy,Gold),6,64,10090,26.42,15999
+613,APPLE,iPad,6th Gen) 1 TB ROM 12.9 inch with Wi-Fi Only ,6,8,2685,32.77,181900
+614,APPLE,iPad,6th Gen) 2 TB ROM 12.9 inch with Wi-Fi Only ,6,64,2685,32.77,221900
+615,Lenovo,Tab,Slate Black),1,128,2685,20.32,5999
+616,Lenovo,Tab,Slate Black),6,8,2685,20.32,13344
+617,Micromax,Funbook,"Wi-Fi, 3G)",3,16,7300,17.78,7999
+618,SAMSUNG,Galaxy,Green),1,512,2685,31.5,42999
+619,Honor,MediaPad,Luxurious Gold),4,32,7000,24.38,11999
+620,SAMSUNG,Galaxy,Mystic Silver),6,16,7000,31.5,51999
+621,SAMSUNG,Galaxy,Crea...,6,16,5124,17.78,9300
+622,Honor,T1,Silver),6,1,2685,17.78,6999
+623,SAMSUNG,Galaxy,Silver),1,64,5870,26.42,18999
+624,iball,iTab,Coal Black),5,16,7040,25.65,15034
+625,iball,iTab,Champagne Gold),2,128,3200,25.65,14990
+626,APPLE,iPad,Space Grey),4,8,8000,24.64,28000
+627,I,Kall,"Blue, 64 GB)",5,8,5000,16.51,7779
+628,APPLE,iPad,Silver),6,32,2685,32.77,62990
+629,SAMSUNG,Galaxy,Black),1,64,2685,26.67,39999
+630,SAMSUNG,Galaxy,Metallic Black),6,64,6600,24.38,15500
+631,I,Kall,"Dark Blue, 64 GB)",1,32,3200,15.9,6283
+632,Smartbeats,N2,White),6,64,2685,17.78,7999
+633,SAMSUNG,Galaxy,LTE) 6 GB RAM 128 GB ROM 11 inch with Wi-Fi+4G Tablet ,3,64,3200,27.94,63999
+634,SAMSUNG,Galaxy,Mystic Bronze),1,64,2685,31.5,73999
+635,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,8,2685,35.56,61790
+636,Alcatel,A3,"White, Grey)",1,64,4080,25.65,11999
+637,SAMSUNG,Galaxy,Silver),4,16,2850,25.4,19999
+638,I,Kall,Purple),2,128,8000,17.78,6399
+639,I,Kall,"Silver, 8 GB)",6,128,10090,12.7,3999
+640,CG,Slate,KG-2) Single Sim Tablet 8 GB 7 inch with Wi-Fi Only,1,32,7000,17.78,15999
+641,Micromax,Canvas,Grey),1,32,10090,17.78,7599
+642,APPLE,iPad,6th Gen) 1 TB ROM 12.9 inch with Wi-Fi+5G ,3,32,4290,32.77,196900
+643,SAMSUNG,Galaxy,Black),4,8,2685,20.32,17990
+644,Alcatel,A3,"White, Blue)",4,8,2685,25.65,11999
+645,SAMSUNG,Galaxy,Mystic Bronze),2,8,7040,31.5,51999
+646,SAMSUNG,Galaxy,Green),4,16,5000,31.5,42999
+647,SAMSUNG,Galaxy,with Pen) 4 GB RAM 64 GB ROM 10.5 inch with Wi-Fi+4G Tablet ,5,32,5830,26.67,57900
+648,iball,Slide,Charcoal Blue),4,128,2685,17.78,3999
+649,Lenovo,TAB,Aurora Black),2,64,2685,25.65,22900
+650,Lenovo,M10,Black),6,64,5830,25.65,16999
+651,I,Kall,"Blue, 64 GB)",6,8,7000,16.51,7779
+652,Apple,iPad,0,3,64,5000,20.07,42900
+653,SAMSUNG,Galaxy,Black),4,64,5000,24.64,27999
+654,APPLE,iPad,6th Gen) 512 GB ROM 12.9 inch with Wi-Fi+5G ,1,64,7000,32.77,156900
+655,I,Kall,"Dark Blue, 64 GB)",1,128,7500,15.9,6283
+656,APPLE,iPad,Space Grey),1,32,3450,26.67,63500
+657,APPLE,iPad,6th Gen) 256 GB ROM 12.9 inch with Wi-Fi+5G ,2,512,4300,32.77,136900
+658,SAMSUNG,Galaxy,Gold),3,64,6000,26.67,39999
+659,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,6,256,2685,35.56,61790
+660,Smartbeats,S5,Black),4,256,2850,17.78,7999
+661,APPLE,iPad,Space Grey),4,64,2685,32.77,73990
+662,REDMI,Pad,Graphite Gray),4,16,2685,26.95,14999
+663,I,Kall,"Silver, 8 GB)",4,256,2685,12.7,3999
+664,I,Kall,Black),4,64,2685,25.4,9499
+665,APPLE,iPad,Gold),2,8,2685,20.07,33800
+666,Apple,iPad,0,3,32,2685,20.07,45900
+667,acer,One,Rose Gold),4,128,6000,25.65,15999
+668,Smartbeats,N4,Black),2,128,2685,17.78,4999
+669,Smartbeats,N4,White),3,64,2685,17.78,6999
+670,Alcatel,3T,Prime Black),1,8,7000,25.4,14999
+671,LAVA,Magnum,White),3,8,7000,17.73,7999
+672,SAMSUNG,Galaxy,Mystic Black),2,16,2685,27.94,58999
+673,Apple,iPad,0,2,16,2685,20.07,44500
+674,Apple,iPad,0,4,128,2685,20.07,45900
+675,SAMSUNG,Galaxy,Graphite),1,128,3000,31.5,66999
+676,Elevn,eTab,Aluminium Grey),1,128,2685,25.65,17999
+677,SAMSUNG,Galaxy,Pink),2,128,2685,31.5,42999
+678,Lenovo,Tab,Black),2,128,7000,20.32,8499
+679,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,6,64,2685,35.56,61790
+680,APPLE,iPad,Silver),2,16,2685,20.07,42900
+681,SAMSUNG,Galaxy,Gold),2,128,2685,26.42,16999
+682,Swipe,X1,Gold),8,64,4850,25.65,14499
+683,Alcatel,Pop,Dark Grey),4,64,2685,25.65,11999
+684,Alcatel,Pop,Grey),4,16,2685,25.65,10999
+685,Elevn,eTab,Aluminium Grey),2,16,4300,25.65,15999
+686,Swipe,New,Grey),2,64,4200,25.65,8999
+687,Swipe,New,Gold),3,16,8500,25.65,8999
+688,APPLE,iPad,Space Grey),4,16,4000,20.07,33800
+689,iball,Slide,Cobalt Brown),2,128,2685,25.65,13999
+690,Huawei,MediaPad,Champagne Gold),2,16,2685,25.65,20990
+691,Lenovo,Tab,Slate Black),4,32,2685,17.78,7999
+692,iball,Slide,Rose Gold),2,16,2685,20.32,9999
+693,SAMSUNG,Galaxy,with Pen) 4 GB RAM 32 GB ROM 9.7 inch with Wi-Fi+4G Tablet ,2,16,7800,24.64,47990
+694,LAVA,Magnum,Dark Blue),2,32,2685,17.73,7999
+695,SAMSUNG,Galaxy,with Pen) 4 GB RAM 32 GB ROM 9.7 inch with Wi-Fi+4G Tablet ,2,16,2685,24.64,47990
+696,iball,iTAB,Coal Black),3,32,7040,25.65,10990
+697,iball,iTAB,Coal Black),1,32,2685,25.65,10990
+698,I,Kall,White),3,32,2685,20.32,5794
+699,I,Kall,"Blue, 64 GB)",4,16,2685,16.51,7779
+700,Lenovo,Tab,Aurora Black),2,64,2685,25.65,26999
+701,APPLE,ipad,2019) 64 GB ROM 7.9 inch with Wi-Fi Only ,4,64,5000,20.07,34900
+702,Lenovo,Tab,Slate Black),2,64,2685,25.65,13499
+703,I,Kall,"Dark Blue, 64 GB)",2,16,2685,15.9,6283
+704,iball,Slide,Rose Gold),2,64,2685,20.32,9999
+705,SAMSUNG,Galaxy,Sandy White),4,16,5080,20.32,14999
+706,Lenovo,Yoga,Gunmetal Grey),4,16,2800,25.65,44990
+707,Lenovo,IdeaPad,16 GB/512 GB SSD/Windows 11 Home) 14ALC7 Thin and Lig...,2,64,2685,35.56,61790
+708,SAMSUNG,Galaxy,Black),4,8,2800,17.78,11900
+709,iball,Brace,Gold),3,32,2685,25.65,19999
+710,Wishtel,IRA,Black),2,16,2685,17.78,7854
+711,I,Kall,"Silver, 8 GB)",4,8,2685,12.7,3999
+712,SAMSUNG,Galaxy,Cloud Blue),5,128,2685,26.67,44999
+713,Lenovo,Tab,2nd Gen) 2 GB RAM 32 GB ROM 10.1 inches with Wi-Fi+4G Tablet ,3,32,2685,25.65,13999
+714,Lenovo,Ideapad,Mineral ...,2,128,2685,25.65,22999
+715,SAMSUNG,Galaxy,Black),1,32,2685,20.32,11999
+716,I,Kall,Black),6,4,2685,17.78,3799
+717,I,Kall,White),2,4,2685,17.78,3999
+718,Wishtel,Ira,Black),4,8,2685,17.78,4713
+719,APPLE,iPad,6th Gen) 512 GB ROM 12.9 inch with Wi-Fi Only ,1,512,2685,32.77,141900
